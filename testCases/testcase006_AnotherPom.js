@@ -15,7 +15,7 @@ describe('Protractor_Demo_App', function () {
     homepage.openBrowser();
     homepage.numberSet('1', '2');
     homepage.clickGoButton();
-    homepage.verifyResult('1');
+    homepage.verifyResult(22);
   })
 
 });
