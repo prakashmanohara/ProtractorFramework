@@ -38,7 +38,7 @@ exports.config = {
   // Spec patterns are relative to the current working directory when
   // protractor is called. this is used to run single file
   //specs: ['spec_Second.js'],
-  specs: ['./testCases/testcase006_AnotherPom.js'],
+  specs: ['./testCases/testcase001_OKR.js'],
 
   //this is used to run a suite file
   /*

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="0" tests="1" time="5.986">
- <testsuite name="Protractor_Demo_App" timestamp="2020-08-24T10:06:24" hostname="localhost" time="5.986" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Protractor_Demo_App" name="addition_Test_With_Pob" time="5.979" />
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="42.809">
+ <testsuite name="Protractor_Demo_App" timestamp="2020-08-27T23:57:07" hostname="localhost" time="42.809" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Protractor_Demo_App" name="addition_Test_With_Pob" time="42.799" />
  </testsuite>
 </testsuites>

@@ -6,7 +6,8 @@ let homepage = function(){
   var goButton = element(by.id('gobutton'));
 
   this.openBrowser=function(){
-    browser.get('http://juliemr.github.io/protractor-demo/');
+    //browser.get('http://juliemr.github.io/protractor-demo/');
+    browser.get('https://dev-okr.coda.global/');
   }
   
 
